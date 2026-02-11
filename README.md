@@ -41,7 +41,7 @@ Follow these steps to install and run the project:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/auth-api-with-jwt.git
+    git clone https://github.com/SumanSariga/auth-api-with-jwt.git
     ```
 2. **Navigate to the project directory**:
     ```bash
